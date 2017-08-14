@@ -1,0 +1,6 @@
+framework module HotPatchFramework {
+  umbrella header "HotPatchFramework.h"
+
+  export *
+  module * { export * }
+}
